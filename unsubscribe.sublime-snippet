@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+https://marketinginfo1.garmin.com/u/un.php?par=\$uid\$_\$cid\$_\$llid\$_\$sid\$ 
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>unsubscribe</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

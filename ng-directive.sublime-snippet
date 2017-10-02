@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[
+myModule.directive('namespaceDirectiveName', function factory(injectables) { 
+    var directiveDefinitionObject = {
+        restrict: string,
+        priority: number,
+        template: string,
+        templateUrl: string,
+        replace: bool,
+        transclude: bool,
+        scope: bool or object,
+        controller: function controllerConstructor($scope,
+                                                          $element,
+                                                          $attrs,
+                                                          $transclude),
+        require: string,
+        link: function postLink(scope, iElement, iAttrs) { ... }, 
+        compile: function compile(tElement, tAttrs, transclude) {
+            return {
+                pre: function preLink(scope, iElement, iAttrs, controller) { ... }, 
+                post: function postLink(scope, iElement, iAttrs, controller) { ... }
+            }
+        }
+    };
+    return directiveDefinitionObject; 
+});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>directive</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

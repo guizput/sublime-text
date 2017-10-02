@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<!-- FILE:hero.blade.php -->
+$SELECTION$1
+<!-- /FILE:hero.blade.php -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>blade</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

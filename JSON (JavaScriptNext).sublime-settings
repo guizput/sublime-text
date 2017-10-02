@@ -1,0 +1,15 @@
+{
+  "extensions": [
+    "scss"
+  ],
+  "on_pre_save_language": [
+    {
+      "command": "css_comb"
+    }
+  ],
+  "on_load": [
+    {
+      "command": "css_comb"
+    }
+  ]
+}

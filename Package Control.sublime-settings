@@ -1,0 +1,51 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"CSS3_Syntax",
+		"HTML2Jade",
+		"TidyHTML5"
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"AngularJS Snippets",
+		"AppleScript Extensions",
+		"Autoprefixer",
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"Browser Refresh",
+		"Chain of Command",
+		"ColorPick",
+		"ColorPicker",
+		"Colorsublime",
+		"Compare Side-By-Side",
+		"CSS3_Syntax",
+		"CSScomb",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Goto-CSS-Declaration",
+		"Hooks",
+		"HTML-CSS-JS Prettify",
+		"HTML2Jade",
+		"HTMLBeautify",
+		"Jade",
+		"Javascript Beautify",
+		"JavaScriptNext - ES6 Syntax",
+		"LESS",
+		"List LESS Variables",
+		"Minify",
+		"Package Control",
+		"Pug",
+		"React IDE",
+		"React Templates",
+		"ReactJS",
+		"Sass",
+		"SCSS",
+		"SublimeLinter-jsxhint",
+		"Theme - Soda",
+		"TidyHTML5",
+		"View In Browser"
+	]
+}

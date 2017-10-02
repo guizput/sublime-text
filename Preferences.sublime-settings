@@ -1,0 +1,24 @@
+{
+	"auto-indent": false,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"detect_indentation": true,
+	"draw_white_space": "all",
+	"font_size": 21.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"CSS3_Syntax",
+		"HTML2Jade",
+		"TidyHTML5",
+		"Vintage"
+	],
+	"line_padding_bottom": 5,
+	"open_files_in_new_window": false,
+	"tab_size": 2,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true,
+	"word_wrap": "true"
+}
