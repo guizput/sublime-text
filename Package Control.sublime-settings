@@ -25,7 +25,9 @@
 		"CSScomb",
 		"Emmet",
 		"Emmet Css Snippets",
+		"FileBrowser",
 		"Goto-CSS-Declaration",
+		"Handlebars",
 		"Hooks",
 		"HTML-CSS-JS Prettify",
 		"HTML2Jade",
@@ -44,6 +46,7 @@
 		"Sass",
 		"SCSS",
 		"SublimeLinter-jsxhint",
+		"Text Pastry",
 		"Theme - Soda",
 		"TidyHTML5",
 		"View In Browser"
