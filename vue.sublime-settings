@@ -1,0 +1,9 @@
+// These settings override both User and Default settings for the vue syntax
+{
+  "on_pre_save_language": [
+    {
+      "command": "reindent", 
+      "args": { "single_line": false }
+    }
+  ]
+}
