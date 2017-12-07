@@ -1,8 +1,8 @@
 // These settings override both User and Default settings for the PHP syntax
-{
-  "on_pre_save_language": [
-    {
-      "command": "html_beautify"
-    }
-  ]
-}
+// {
+//   "on_pre_save_language": [
+//     {
+//       "command": "html_beautify"
+//     }
+//   ]
+// }
