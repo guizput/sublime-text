@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+<!-- FILE:/@@editionName@@_@@editionID@@/##trad_SDLfolder##/to_be_modified.xml -->
+
+<!-- /FILE:/@@editionName@@_@@editionID@@/##trad_SDLfolder##/to_be_modified.xml -->
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>contentfulXml</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

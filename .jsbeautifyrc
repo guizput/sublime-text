@@ -10,7 +10,7 @@
     },
 
     // Automatically format when a file is saved.
-    "format_on_save": true,
+    "format_on_save": false,
 
     // Automatically format when a file is opened. (Sublime Text 3 only)
     "format_on_open": false,

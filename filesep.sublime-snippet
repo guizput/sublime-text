@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-(#$0.blade.php:
-<!-- FILE:$0.blade.php -->
-<!-- /FILE:$0.blade.php -->
+(#$0.hbs:
+<!-- FILE:$0.hbs -->
+<!-- /FILE:$0.hbs -->
 #)
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

@@ -44,5 +44,6 @@
         "key": "is_abbreviation"
       }
     ]
-  }
+  },
+  { "keys": ["super+shift+forward_slash"], "command": "toggle_comment", "args": { "block": true } }
 ]
